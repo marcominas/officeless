@@ -5,7 +5,7 @@ from officeless import COMMAND_LIST
 
 tip_title_dict = {
     "1": "Tip number 01 - wired net",
-    "2": "Tip number 02 - use virtuais resources",
+    "2": "Tip number 02 - use virtual resources",
     "3": "Tip number 03 - do remote meetings",
     "4": "Tip number 04 - only one speaks at a time",
     "5": "Tip number 05 - send link at invite",
@@ -15,7 +15,7 @@ tip_title_dict = {
 }
 tip_dict = {
     "1": "Wired net *** NEED FULL TIP HERE",
-    "2": "Use virtuais resources *** NEED FULL TIP HERE",
+    "2": "Use virtual resources *** NEED FULL TIP HERE",
     "3": "Do remote meetings *** NEED FULL TIP HERE",
     "4": "Only one speaks at a time *** NEED FULL TIP HERE",
     "5": "Send link at invite *** NEED FULL TIP HERE",
